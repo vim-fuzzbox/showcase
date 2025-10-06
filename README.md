@@ -21,3 +21,8 @@ Screenshots and recordings to demonstrate Fuzzbox features
 ### Devicons
 
 ![devicons](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/devicons.gif)
+
+### No preview
+
+![nopreview](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/nopreview.gif)
+
