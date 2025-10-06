@@ -12,8 +12,12 @@ Screenshots and recordings to demonstrate Fuzzbox features
 
 ![screenshot-devicons](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/screenshot-devicons.png)
 
-## Demos
+## Recordings
 
-### Intro
+### Demo
 
 ![demo](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/demo.gif)
+
+### Devicons
+
+![devicons](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/devicons.gif)
