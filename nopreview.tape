@@ -17,16 +17,22 @@ Set Shell bash
 Hide
 Type "vim -n -u vimrc" Enter
 Type ":cd $VIMRUNTIME" Enter
-Type "oFuzzbox preview" Enter Escape
+Type "oFuzzbox no preview" Enter Escape
 Show
 
-Type "o* The preview window is optional and can easily be disabled" Enter Escape
+Type "o* The preview window is optional and is easily disabled" Enter Escape
 Sleep 2
 Type ":let g:fuzzbox_preview = 0" Sleep 2 Enter
 Type ":FuzzyFiles" Enter
 Sleep 2
 Type "json" Sleep 2
 Ctrl+W
+Sleep 2
+Escape
+Sleep 2
+Type ":FuzzyGrep" Enter
+Sleep 2
+Type "printf" Sleep 2
 Sleep 2
 Escape
 
