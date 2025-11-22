@@ -26,3 +26,6 @@ Screenshots and recordings to demonstrate Fuzzbox features
 
 ![nopreview](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/nopreview.gif)
 
+### Dropdown theme
+
+![dropdown](https://raw.githubusercontent.com/vim-fuzzbox/showcase/refs/heads/main/dropdown.gif)
